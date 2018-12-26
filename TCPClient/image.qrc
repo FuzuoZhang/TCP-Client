@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/image1">
+        <file>1.jpg</file>
+        <file>lan.jpg</file>
+        <file>longm.jpg</file>
+        <file>xinn.jpg</file>
+        <file>tou1.jpeg</file>
+        <file>tou2.jpeg</file>
+        <file>tou3.jpeg</file>
+    </qresource>
+</RCC>
