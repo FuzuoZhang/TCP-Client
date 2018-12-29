@@ -11,4 +11,7 @@ This is a client project for communication between multiple persons in a local a
 - **Output**: The folder includes some main screenshots of the program when I used it to test.
 
 
+**Some screenshots when I run it**
+
+![image1](https://github.com/FuzuoZhang/TCP-Client/blob/master/Output/%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.PNG)
 
