@@ -15,3 +15,7 @@ This is a client project for communication between multiple persons in a local a
 
 ![image1](https://github.com/FuzuoZhang/TCP-Client/blob/master/Output/%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.PNG)
 
+![image2](https://github.com/FuzuoZhang/TCP-Client/blob/master/Output/%E7%A7%81%E8%81%8A.png)
+
+![image3](https://github.com/FuzuoZhang/TCP-Client/blob/master/Output/%E7%BE%A4%E8%81%8A%E7%AA%97%E5%8F%A3.png)
+
